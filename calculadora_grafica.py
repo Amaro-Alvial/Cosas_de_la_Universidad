@@ -195,7 +195,7 @@ ventana.title(chr(3476)+" Calculadora "+chr(3476))
 ventana.attributes("-fullscreen", False)
 ventana["bg"]="gray16"
 ventana.geometry("330x290")
-ventana.iconbitmap("C:/Users/Amaro/OneDrive/Escritorio/pruebas/7007513_finance_calculator_accounting_business_icon.ico")
+ventana.iconbitmap("C:/Users/Amaro/OneDrive/Escritorio/programas/pruebas/7007513_finance_calculator_accounting_business_icon.ico")
 
 #Entrada
 e_texto = Entry(ventana, font= ("Times"), background="gray16" ,foreground= "snow", width= 32)
